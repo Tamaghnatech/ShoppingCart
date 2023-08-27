@@ -1,5 +1,5 @@
 # ShoppingCart CLI
-[SHoppingCart CLI logo](logo.png)
+![SHoppingCart CLI logo](logo.png)
 ## Overview
 The `ShoppingCart` is a command-line interface simulation for a dynamic online shopping experience. Users can interactively browse a range of items, manage their cart's content, check out total costs, and ensure a seamless shopping experience.
 
